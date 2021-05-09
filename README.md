@@ -1,5 +1,5 @@
 
-![alt text](https://drive.google.com/file/d/1xi5oX4xXAiMOIZc5J4FeH7niaqTg0bHY/view?usp=sharing)
+![alt text](https://github.com/italooalves/imersao-dados-desafio-final/blob/main/imagem1.png?raw=true)
 
 # Desafio Final Imersão Dados - Drug Discovery
 
