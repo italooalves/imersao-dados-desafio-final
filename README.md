@@ -19,7 +19,7 @@ Além disso, temos os dados do resultado, no qual nos mostra quais MoAs foram at
 
 ![alt text](https://github.com/italooalves/imersao-dados-desafio-final/blob/main/base_resultado.png?raw=true)
 
-** Referencias **
+**Referencias**
 
 https://www.kaggle.com/c/lish-moa/overview
 
@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1VNP08ffCiGD8cqaBkdHATWSX8Yxfm3dj/view
 
 https://github.com/italooalves/imersao-dados-desafio-final
 
-** Agradecimento **
+**Agradecimento**
 
 Agradeço a Alura pelo oportunidade de participar da terceira edição da imersão de dados.
 Agradeço aos professores Thiago, Guilhemer e Vanessa.
